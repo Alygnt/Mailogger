@@ -1,6 +1,9 @@
 # Keylogger
-## App keylogger - Android
+App keylogger - Android
 
 ## Features:
 -App keylogger
+
 -Auto bind
+
+-Default installation setup
