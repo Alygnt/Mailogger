@@ -17,6 +17,10 @@
 <a href="https://github.com/rdxlr/Mailogger"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Mailogger?label=Watchers&color=red&style=flat-square"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/rdxlr"><img title="Licence" src="https://img.shields.io/badge/License-MIT LICENCE-blue.svg"></a>
+</p>
+
 ## Features:
 -App keylogger
 -Auto bind
